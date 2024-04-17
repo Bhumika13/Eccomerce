@@ -1,0 +1,15 @@
+{
+  "user": [
+    {
+      "id": "admin",
+      "name": "adminstrator",
+      "password": "admin",
+      "email": "test@gmail.com",
+      "phone": "78656656",
+      "country": "singapore",
+      "address": "Singapore",
+      "gender": "female"
+    }
+   
+  ]
+}
